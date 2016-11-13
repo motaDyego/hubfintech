@@ -1,0 +1,31 @@
+<!doctype html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Seleção HubFintech</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>    
+    <script src="js/create.js"></script>    
+    <link rel="stylesheet" type="text/css" href="../main.css">    
+  </head>
+
+  <body>
+
+    <div>
+      <a class="button" href="../index" class="button">Home</a>
+      <a class="button" href="index" class="button">Lista de Contas</a><br><br>
+    </div>
+
+    <div>
+      
+        <input type="text" id="nome" name="nome" placeholder="nome da conta"><br>
+        <select id="status" name="status">
+			<option value="ATIVA">ATIVA</option>
+			<option value="BLOQUEADA">BLOQUEADA</option>
+			<option value="CANCELADA">CANCELADA</option>
+		</select><br>
+        <select id="pai"></select><br><br>
+        <button onclick="saveConta()">Salvar</button> 
+      
+    </div>
+
+  </body>
+</html>
