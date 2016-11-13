@@ -1,5 +1,6 @@
 Projeto "hub" desenvolvido em Ruby on Rails, mesmo nunca tendo trabalhado com esse framework nem com a linguagem Ruby, achei melhor encarar de vez esse desafio para já ir me familiarizando com essas tecnologias.
-Para saber minhas habilidades com Java, tenho projetos de autoria própria que posso lhes apresentar, como o www.sonorumapp.com.br que possui uma arquitetura identica à arquitetura proposta nesse trabalho, front e back em projetos separados onde o back disponibiliza web services REST que são consumidos pelos fronts Web e APP (android)
+Para saber minhas habilidades com Java, tenho projetos de autoria própria que posso lhes apresentar, como o www.sonorumapp.com.br (código também está no meu GIT mas em um projeto privado.) que possui uma arquitetura identica à arquitetura proposta nesse trabalho, front e back em projetos separados onde o back disponibiliza web services REST que são consumidos pelos fronts Web e APP (android)
+
 Projeto "front" está em html, JQuery e css sem nenhum framework.
 
 Inicialmente iria desenvolver o front usando AngularJS, gastei boas horas implementando o front com o framework, mas não teria tempo hábil para implementa-lo nesse projeto.
@@ -8,7 +9,7 @@ Sempre deixo a parte de estilo (CSS) por último, por isso os arquivos existente
 
 O banco de dados utilizado foi o MySql, o backup do mesmo está no arquivo "hub_BD.sql"
 
-Não foi possível concluir todas as operaçoes, mas foi possível criar uma aplicação Ruby on Rails com web services REST, cuja documentação encontra-se em http://docs.hub17.apiary.io/
+Não foi possível concluir todas as operaçoes, mas foi possível criar uma aplicação Ruby on Rails com web services REST, cuja documentação encontra-se em http://docs.hub17.apiary.io/ (caso tenham interesse, a documentação da api do sonorum tbm está no apiary)
 
 A implementação model "Pessoa" ficou incompleta, faltou refletir no ORM/BD a hierarquia entre a Pessoa, Fisica e Juridica, isso impediu a conclusão dos web services referentes a essas classes.
 
