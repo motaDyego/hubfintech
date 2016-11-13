@@ -1,4 +1,5 @@
 Projeto "hub" desenvolvido em Ruby on Rails, mesmo nunca tendo trabalhado com esse framework nem com a linguagem Ruby, achei melhor encarar de vez esse desafio para já ir me familiarizando com essas tecnologias.
+Para saber minhas habilidades com Java, tenho projetos de autoria própria que posso lhes apresentar, como o www.sonorumapp.com.br que possui uma arquitetura identica à arquitetura proposta nesse trabalho, front e back em projetos separados onde o back disponibiliza web services REST que são consumidos pelos fronts Web e APP (android)
 Projeto "front" está em html, JQuery e css sem nenhum framework.
 
 Inicialmente iria desenvolver o front usando AngularJS, gastei boas horas implementando o front com o framework, mas não teria tempo hábil para implementa-lo nesse projeto.
